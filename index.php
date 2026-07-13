@@ -1,3 +1,4 @@
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,8 +22,9 @@
             <a href="index.html" class="nav__logo">EGATOR</a>
             <ul class="nav__items">
                 <li><a href="blog.html">Blog</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="aboutus.html">About</a></li>
                 <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Vacancies</a></li>
                 <li><a href="contact.html">Contact</a></li>
                 <!-- <li><a href="signin.html">Signin</a></li> -->
                 <li class="nav__profile">
@@ -326,7 +328,7 @@
                 <ul>
                     <li><a href="">Home</a></li>
                     <li><a href="">Blog</a></li>
-                    <li><a href="">About</a></li>
+                    <li><a href="aboutus.html">About</a></li>
                     <li><a href="">Services</a></li>
                     <li><a href="">Contact</a></li>
                 </ul>
